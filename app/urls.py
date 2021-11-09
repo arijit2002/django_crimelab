@@ -79,7 +79,7 @@ urlpatterns = [
     path("crime_2012", views.crime_2012,name='crime_2012')
 
 
-    ############################# end of url management ########################
+    ############################# end of url management #########################
 
 
 ]
