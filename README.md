@@ -1,3 +1,2 @@
 # Crime Chart Display _using Django_ 
-### Link---> https://django-crimelab.herokuapp.com/
-******************************************************
+### Link---> _https://django-crimelab.herokuapp.com/_
